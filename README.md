@@ -8,3 +8,8 @@ Group Members:
 
 Muhammad Shaghil: 
 I'm in 3rd year(5th semester). I love programming.
+
+10567 Mumhammad Faisal Malik:
+BSCS Student From PAF KIET.
+Self Taught Core Programmer.
+A Full Stack Developer And An Aspiring A.I engineer.
